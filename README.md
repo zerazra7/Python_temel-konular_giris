@@ -1,1 +1,1 @@
-# Python_temel-konular_giris
+# Python_temel_konular
